@@ -1,7 +1,10 @@
 2020-03-09
 搭建开发环境 apche2.4.41 + mysql8.0.18 + php7.4.3
 
+安装apache2.4.41
+ 
 安装php7.4.3
+ 问题：浏览器能访问 it works ， 不能访问phpinfo.php
 
 安装mysqlmysql8.0.18
 
@@ -11,3 +14,6 @@
 
 从github下载电子商城项目 学习 发布到centos7虚拟机
 
+phpstorm 安装与破解
+
+取英文名，ZAKI  下载 skype
